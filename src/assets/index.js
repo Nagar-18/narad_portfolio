@@ -19,7 +19,7 @@ import nodejs from "./tech/ph.png";
 import meta from "./company/brand.jpg";
 import shopify from "./company/images.png";
 import tesla from "./company/krafton.png";
-import starbucks from "./company/Logo-cosmos_maya.png";
+import starbucks from "./company/l.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
